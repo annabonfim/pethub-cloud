@@ -38,3 +38,4 @@ out/
 
 # RSA Keys
 src/main/resources/certs/
+.DS_Store
