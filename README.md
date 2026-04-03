@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/pethub-logo.png" alt="PetHub" width="150" />
+  <img src=".github/pethub-logo.png" alt="PetHub" width="300" />
 </div>
 
 # 🐾 PetHub Cloud
@@ -190,7 +190,7 @@ https://pethub-cloud-anna.azurewebsites.net
 
 ## 🎥 Vídeo de Demonstração
 
-> _Link do vídeo aqui_
+https://youtu.be/AmmJoodR0Vo
 
 ## 🔐 Autenticação
 
